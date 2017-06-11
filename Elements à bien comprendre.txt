@@ -1,0 +1,3 @@
+- se connecter à github avec SSH
+
+https://help.github.com/articles/connecting-to-github-with-ssh/
